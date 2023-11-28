@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+.container_btn {
+  text-align: center;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+.btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: aqua;
+}
+.btn:hover {
+  background: rgb(209, 41, 193);
+  color: #fff;
+  font-weight: 600;
+}
