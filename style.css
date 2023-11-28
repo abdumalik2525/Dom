@@ -14,9 +14,7 @@ button {
   border-radius: 5px;
   font-size: 16px;
   background-color: aqua;
-  justify-content: center;
-  display: grid;
-  gap: 10px;
+
 }
 .btn:hover {
   background: rgb(209, 41, 193);
