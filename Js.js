@@ -24,5 +24,4 @@ Decrease_5.addEventListener("click", () => {
 Reset.addEventListener("click", () => {
   h1.textContent = 0;
   h1.style.color = "black";
-  
 });
